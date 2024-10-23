@@ -1,0 +1,8 @@
+[
+  {
+    "id": "199",
+    "appVersion": "3.1.2",
+    "changes": "- In-App-Banner-Funktion implementiert\n- Paginierungsfehler in der iglooconnect Partnerliste behoben.",
+    "releaseDate": "2024-10-10"
+  }
+]

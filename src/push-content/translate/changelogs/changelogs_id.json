@@ -1,0 +1,8 @@
+[
+  {
+    "id": "199",
+    "appVersion": "3.1.2",
+    "changes": "- Fitur spanduk dalam aplikasi yang diimplementasikan\n- Memperbaiki masalah pagination pada daftar mitra iglooconnect.",
+    "releaseDate": "2024-10-10"
+  }
+]

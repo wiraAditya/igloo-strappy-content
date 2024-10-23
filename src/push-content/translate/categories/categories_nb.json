@@ -1,0 +1,22 @@
+[
+  {
+    "id": "1",
+    "category": "GENERELT"
+  },
+  {
+    "id": "2",
+    "category": "PROGRAMVARE"
+  },
+  {
+    "id": "3",
+    "category": "TILGANG"
+  },
+  {
+    "id": "4",
+    "category": "MASKINVARE"
+  },
+  {
+    "id": "5",
+    "category": "FASTVARE"
+  }
+]

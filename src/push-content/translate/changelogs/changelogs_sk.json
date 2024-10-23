@@ -1,0 +1,8 @@
+[
+  {
+    "id": "199",
+    "appVersion": "3.1.2",
+    "changes": "Implementovaná funkcia banneru v aplikácii\nOpravený problém s stránkovaním v zozname partnerov iglooconnect.",
+    "releaseDate": "2024-10-10"
+  }
+]

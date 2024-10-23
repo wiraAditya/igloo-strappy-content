@@ -1,0 +1,8 @@
+[
+  {
+    "id": "199",
+    "appVersion": "3.1.2",
+    "changes": "- Implemented in-app banner feature\n- Fixed pagination issue on iglooconnect partner list.",
+    "releaseDate": "2024-10-10"
+  }
+]

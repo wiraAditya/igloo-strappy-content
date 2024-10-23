@@ -1,0 +1,22 @@
+[
+  {
+    "id": "1",
+    "category": "VŠEOBECNÉ"
+  },
+  {
+    "id": "2",
+    "category": "SOFTVÉR"
+  },
+  {
+    "id": "3",
+    "category": "PRÍSTUP"
+  },
+  {
+    "id": "4",
+    "category": "HARDWARE"
+  },
+  {
+    "id": "5",
+    "category": "FIRMWARE"
+  }
+]

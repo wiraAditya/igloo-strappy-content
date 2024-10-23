@@ -1,0 +1,22 @@
+[
+  {
+    "id": "1",
+    "category": "YLEISTÄ"
+  },
+  {
+    "id": "2",
+    "category": "OHJELMISTO"
+  },
+  {
+    "id": "3",
+    "category": "PÄÄSY"
+  },
+  {
+    "id": "4",
+    "category": "LAITTEISTOT"
+  },
+  {
+    "id": "5",
+    "category": "LAITEOHJELMISTO"
+  }
+]
