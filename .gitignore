@@ -1,6 +1,9 @@
 # Node modules
 node_modules/
-
+# generated translation files
+src/generate-json/generated/
+# translated files
+src/push-content/translate/
 # Logs
 logs
 *.log

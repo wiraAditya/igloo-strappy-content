@@ -1,8 +1,0 @@
-[
-  {
-    "id": "199",
-    "appVersion": "3.1.2",
-    "changes": "- Đã triển khai tính năng biểu ngữ trong ứng dụng\n- Đã khắc phục sự cố phân trang trên danh sách đối tác iglooconnect.",
-    "releaseDate": "2024-10-10"
-  }
-]

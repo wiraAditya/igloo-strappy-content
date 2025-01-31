@@ -1,8 +1,0 @@
-[
-  {
-    "id": "199",
-    "appVersion": "3.1.2",
-    "changes": "- Mise en place d'une bannière dans l'application\n- Correction d'un problème de pagination dans la liste des partenaires d'iglooconnect.",
-    "releaseDate": "2024-10-10"
-  }
-]
